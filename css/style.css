@@ -1,0 +1,16 @@
+header{
+	text-align: left;
+	height: 100px;
+	width: 75px;
+
+}
+ img {  
+    width: 650px; 
+    float: left; 
+    margin-left: 50px; 
+ } 
+ .intro {
+ 	float: right;
+ 	margin-top: 150px;
+ 	margin-right: 200px;
+ }
